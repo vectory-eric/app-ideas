@@ -13,9 +13,9 @@ Most English learning apps (Duolingo, Babbitt, Busuu) optimize for beginners on 
 
 | #   | Concept                                    | Description                                        | Why                                                                                                                             |
 | --- | ------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Between the Lines](./between-the-lines)   | Paste/screenshot text, get tone & subtext analysis | Fastest to MVP — productizes existing behavior (screenshotting confusing emails). Share Sheet + LLM. Ship TestFlight in a week. |
-| 2   | [WorkSpeak](./workspeak)                   | Industry-specific English training by job vertical | Biggest business upside — B2B to employers. App Clips QR in the break room = Trojan horse distribution.                         |
-| 3   | [The Daily Catch-Up](./the-daily-catch-up) | Real news deconstructed in difficulty layers       | Motivation problem solved — users already want to read news. Natural subscription product.                                      |
+| 1   | **Between the Lines**  | Paste/screenshot text, get tone & subtext analysis | Fastest to MVP — productizes existing behavior (screenshotting confusing emails). Share Sheet + LLM. Ship TestFlight in a week. |
+| 2   | **WorkSpeak**          | Industry-specific English training by job vertical | Biggest business upside — B2B to employers. App Clips QR in the break room = Trojan horse distribution.                         |
+| 3   | **The Daily Catch-Up** | Real news deconstructed in difficulty layers       | Motivation problem solved — users already want to read news. Natural subscription product.                                      |
 
 
 ### Other Ideas
@@ -23,10 +23,10 @@ Most English learning apps (Duolingo, Babbitt, Busuu) optimize for beginners on 
 
 | #   | Concept                          | Description                                                                                            | Notes                                                            |
 | --- | -------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 4   | [Overheard](./overheard)         | Tap a widget when you hear something you didn't understand, build a personal vocab deck from real life | Low build risk, weekend MVP. Retention risk without review loop. |
-| 5   | [Couch Tutor](./couch-tutor)     | Learn from what you're watching — micro-lessons from TV episode transcripts                            | Content licensing risk. Works best as YouTube companion.         |
-| 6   | [MeetingPrep](./meetingprep)     | Pre-teaches vocabulary for upcoming meetings via calendar integration                                  | Narrow use case — could be a WorkSpeak feature.                  |
-| 7   | [Civic English](./civic-english) | Bureaucratic survival English — citizenship tests, DMV, healthcare forms, tax docs                     | Small TAM but very high-intent users.                            |
+| 4   | **Overheard**     | Tap a widget when you hear something you didn't understand, build a personal vocab deck from real life | Low build risk, weekend MVP. Retention risk without review loop. |
+| 5   | **Couch Tutor**   | Learn from what you're watching — micro-lessons from TV episode transcripts                            | Content licensing risk. Works best as YouTube companion.         |
+| 6   | **MeetingPrep**   | Pre-teaches vocabulary for upcoming meetings via calendar integration                                  | Narrow use case — could be a WorkSpeak feature.                  |
+| 7   | **Civic English** | Bureaucratic survival English — citizenship tests, DMV, healthcare forms, tax docs                     | Small TAM but very high-intent users.                            |
 
 
 ### Deprioritized
@@ -34,9 +34,9 @@ Most English learning apps (Duolingo, Babbitt, Busuu) optimize for beginners on 
 
 | #   | Concept                                                          | Why Deprioritized                                          |
 | --- | ---------------------------------------------------------------- | ---------------------------------------------------------- |
-| 8   | [Rewind](./rewind) — passive audio capture + daily debrief       | Privacy minefield. Months of App Store review battles.     |
-| 9   | [SoundLike](./soundlike) — accent coaching with phoneme feedback | ELSA Speak has $27M+ funding and this positioning.         |
-| 10  | [Neighbor](./neighbor) — location-based language exchange        | Marketplace cold-start problem. Need funding, not a build. |
+| 8   | **Rewind** — passive audio capture + daily debrief       | Privacy minefield. Months of App Store review battles.     |
+| 9   | **SoundLike** — accent coaching with phoneme feedback | ELSA Speak has $27M+ funding and this positioning.         |
+| 10  | **Neighbor** — location-based language exchange        | Marketplace cold-start problem. Need funding, not a build. |
 
 
 ## iOS Mechanics to Explore
